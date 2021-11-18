@@ -5,10 +5,9 @@
     grid-gap: 10px;
     padding: 10px;
     justify-content: center;
-    background: url(../IMG/bg.2.svg);
-    background-repeat: no-repeat;
-    background-size: cover;
+ 
   }
+
   .snip1529 {
     background-color: #000000;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
