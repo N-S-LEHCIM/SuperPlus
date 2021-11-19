@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: 
+Allow: /HTML/Series.html
+Allow: /HTML/Musica.html
+Allow: /HTML/Peliculas.html
+Allow: /HTML/Articulos/you.html
+Allow: /index.html
